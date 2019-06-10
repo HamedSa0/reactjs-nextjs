@@ -1,1 +1,1 @@
-# reactjs-nextjs
+# reactjs/nextjs
