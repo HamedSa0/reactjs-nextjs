@@ -39,7 +39,7 @@
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
     "react-jss": "^8.6.1",
-    "validator": "^10.11.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "nodemon": "^1.18.10"
